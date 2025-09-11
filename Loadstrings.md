@@ -1,6 +1,6 @@
 # <b>Loadstrings</b>
 
-# AntiAFK
+# auto steal and fly steal a brain rot 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/AntiAFK.lua"))()
 ```
